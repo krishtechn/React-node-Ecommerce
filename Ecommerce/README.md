@@ -30,3 +30,17 @@
   14 install for backend automatic reload:- npm install --save-dev nodemon<br>
   15 Update package.json remove test inside script set "start": "nodemon --watch backend --exec node --experimental-modules backend/server.js"<br>
   16 run npm start to run backend api
+
+
+## Load Products From Backend
+1 edit HomeScreen.js<br>
+2 define products, loading and error.<br>
+3 create useEffect<br>
+4 define async fetchData and call it<br>
+5 install axios<br>
+6 get data from /api/products<br>
+7 show them in the list<br>
+8 create Loading Component<br>
+9 create Message Box Component<br>
+10 use them in HomeScreen<br>
+

@@ -1,6 +1,7 @@
 {
   "name": "ecommerce",
   "type": "module",
+  "proxy": "http://127.0.0.1:5000",
   "version": "1.0.0",
   "description": "1 create amazona folder<br>\r  2 create template folder<br>\r  3 create index.html<br>\r  4 add default html code<br>\r  5 link to style.css<br>\r  6 create header, main and footer<br>\r  7 style elements<br><br>",
   "main": "index.js",
